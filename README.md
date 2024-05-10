@@ -35,7 +35,7 @@ The project integrates the Rectified Linear Unit (ReLU) activation functions wit
 ## Result and discussion
 The ISL Translate dataset was used to train the CNN model extensively, teaching it discriminative features through photos of hand movements. By training the model to identify minute differences and nuances in hand gestures, with an average of 1200 photos per hand gesture character, robust classification performance was ensured. Recall and confusion matrix analysis were two validation strategies used during training to evaluate the model's accuracy and performance characteristics.
 
-![image](https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture/assets/107310391/1ec1482e-41a7-4875-bf8b-a0d0ce477a09)                   ![image](https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture/assets/107310391/8bc84bcf-9cff-4d52-ab1e-fcd8f8cd5201)                    ![image](https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture/assets/107310391/1bdde91d-aa98-4317-81c1-4418da94b77d)
+![image](https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture/assets/107310391/8bc84bcf-9cff-4d52-ab1e-fcd8f8cd5201)                    ![image](https://github.com/SomyanshAvasthi/Sign-Language-Detection-using-CNN-Architecture/assets/107310391/1bdde91d-aa98-4317-81c1-4418da94b77d)
 
   _(Fig 1 - Sample of results obtained)_
   
